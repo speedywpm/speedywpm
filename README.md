@@ -1,4 +1,9 @@
 ## Hi there 👋
+# my usual contributions go to my account in GitLab Enterprise
+
+![Animation](https://github.com/user-attachments/assets/1f59614a-75f6-4735-9c8f-5177b374d3c8)
+
+
 
 <!--
 **speedywpm/speedywpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
